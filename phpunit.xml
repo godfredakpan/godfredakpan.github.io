@@ -30,7 +30,7 @@
     </filter>
     <php>
         <const name="ACCESS_TOKEN" value="dummy token" />
-        <const name="API_KEY" value="api key" />
-        <const name="SECRET_KEY" value="secret key" />
+        <const name="API_KEY" value="ts_5JASRSBM923W5O2BSFD8" />
+        <const name="SECRET_KEY" value="ts_53R0UEEBFOLU4KLJ1IUAPNAL4VPT8M" />
     </php>
 </phpunit>
