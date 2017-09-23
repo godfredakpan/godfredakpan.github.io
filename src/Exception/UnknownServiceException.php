@@ -1,6 +1,6 @@
 <?php
 
-namespace Emmanix2002\Moneywave\Exception;
+namespace godfredakpan\Moneywave\Exception;
 
 class UnknownServiceException extends \RuntimeException
 {

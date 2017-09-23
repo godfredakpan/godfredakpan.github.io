@@ -1,9 +1,9 @@
 <?php
 
-namespace Emmanix2002\Moneywave\Service;
+namespace godfredakpan\Moneywave\Service;
 
-use Emmanix2002\Moneywave\Enum\Endpoints;
-use Emmanix2002\Moneywave\Moneywave;
+use godfredakpan\Moneywave\Enum\Endpoints;
+use godfredakpan\Moneywave\Moneywave;
 
 /**
  * Query the details of a wallet to account disbursement transfer.

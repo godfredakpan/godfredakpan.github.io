@@ -1,9 +1,9 @@
 <?php
 
-namespace Emmanix2002\Moneywave\Service;
+namespace godfredakpan\Moneywave\Service;
 
-use Emmanix2002\Moneywave\Exception\ValidationException;
-use Emmanix2002\Moneywave\MoneywaveResponse;
+use godfredakpan\Moneywave\Exception\ValidationException;
+use godfredakpan\Moneywave\MoneywaveResponse;
 use GuzzleHttp\Exception\BadResponseException;
 
 interface ServiceInterface

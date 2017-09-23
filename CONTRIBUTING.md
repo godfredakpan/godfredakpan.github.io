@@ -2,7 +2,7 @@
 
 Contributions are **welcome** and will be fully **credited**.
 
-We accept contributions via Pull Requests on [Github](https://github.com/emmanix2002/database-adapter).
+We accept contributions via Pull Requests on [Github](https://github.com/godfredakpan/database-adapter).
 
 
 ## Pull Requests

@@ -1,9 +1,9 @@
 <?php
 
-namespace Emmanix2002\Moneywave\Service;
+namespace godfredakpan\Moneywave\Service;
 
-use Emmanix2002\Moneywave\Enum\TransferRecipient;
-use Emmanix2002\Moneywave\Moneywave;
+use godfredakpan\Moneywave\Enum\TransferRecipient;
+use godfredakpan\Moneywave\Moneywave;
 
 /**
  * Transfer funds from a bank account to another account.

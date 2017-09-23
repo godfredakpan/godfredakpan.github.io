@@ -1,12 +1,12 @@
 <?php
 
-namespace Emmanix2002\Moneywave\Tests\Service;
+namespace godfredakpan\Moneywave\Tests\Service;
 
-use Emmanix2002\Moneywave\Enum\Environment;
-use Emmanix2002\Moneywave\Enum\PaymentMedium;
-use Emmanix2002\Moneywave\Exception\ValidationException;
-use Emmanix2002\Moneywave\Moneywave;
-use Emmanix2002\Moneywave\Service\CardTransfer;
+use godfredakpan\Moneywave\Enum\Environment;
+use godfredakpan\Moneywave\Enum\PaymentMedium;
+use godfredakpan\Moneywave\Exception\ValidationException;
+use godfredakpan\Moneywave\Moneywave;
+use godfredakpan\Moneywave\Service\CardTransfer;
 use PHPUnit\Framework\TestCase;
 
 class CardToWalletTest extends TestCase

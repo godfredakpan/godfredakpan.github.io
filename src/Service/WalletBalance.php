@@ -1,8 +1,8 @@
 <?php
 
-namespace Emmanix2002\Moneywave\Service;
+namespace godfredakpan\Moneywave\Service;
 
-use Emmanix2002\Moneywave\Enum\Endpoints;
+use godfredakpan\Moneywave\Enum\Endpoints;
 
 /**
  * Get the balances of your Moneywave wallets.

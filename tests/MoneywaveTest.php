@@ -1,29 +1,29 @@
 <?php
 
-namespace Emmanix2002\Moneywave\Tests;
+namespace godfredakpan\Moneywave\Tests;
 
-use Emmanix2002\Moneywave\Enum\Environment;
-use Emmanix2002\Moneywave\Moneywave;
-use Emmanix2002\Moneywave\Service\AccountNumberValidation;
-use Emmanix2002\Moneywave\Service\AccountToAccount;
-use Emmanix2002\Moneywave\Service\AccountToWallet;
-use Emmanix2002\Moneywave\Service\AccountTransfer;
-use Emmanix2002\Moneywave\Service\Banks;
-use Emmanix2002\Moneywave\Service\CardToBankAccount;
-use Emmanix2002\Moneywave\Service\CardTokenization;
-use Emmanix2002\Moneywave\Service\CardToWallet;
-use Emmanix2002\Moneywave\Service\CardTransfer;
-use Emmanix2002\Moneywave\Service\Disburse;
-use Emmanix2002\Moneywave\Service\DisburseBulk;
-use Emmanix2002\Moneywave\Service\InternetBankingToWallet;
-use Emmanix2002\Moneywave\Service\PreviousTransactionQuery;
-use Emmanix2002\Moneywave\Service\QueryDisbursement;
-use Emmanix2002\Moneywave\Service\RetryFailedTransfer;
-use Emmanix2002\Moneywave\Service\TotalChargeToCard;
-use Emmanix2002\Moneywave\Service\ValidateAccountTransfer;
-use Emmanix2002\Moneywave\Service\ValidateCardTransfer;
-use Emmanix2002\Moneywave\Service\VerifyMerchant;
-use Emmanix2002\Moneywave\Service\WalletBalance;
+use godfredakpan\Moneywave\Enum\Environment;
+use godfredakpan\Moneywave\Moneywave;
+use godfredakpan\Moneywave\Service\AccountNumberValidation;
+use godfredakpan\Moneywave\Service\AccountToAccount;
+use godfredakpan\Moneywave\Service\AccountToWallet;
+use godfredakpan\Moneywave\Service\AccountTransfer;
+use godfredakpan\Moneywave\Service\Banks;
+use godfredakpan\Moneywave\Service\CardToBankAccount;
+use godfredakpan\Moneywave\Service\CardTokenization;
+use godfredakpan\Moneywave\Service\CardToWallet;
+use godfredakpan\Moneywave\Service\CardTransfer;
+use godfredakpan\Moneywave\Service\Disburse;
+use godfredakpan\Moneywave\Service\DisburseBulk;
+use godfredakpan\Moneywave\Service\InternetBankingToWallet;
+use godfredakpan\Moneywave\Service\PreviousTransactionQuery;
+use godfredakpan\Moneywave\Service\QueryDisbursement;
+use godfredakpan\Moneywave\Service\RetryFailedTransfer;
+use godfredakpan\Moneywave\Service\TotalChargeToCard;
+use godfredakpan\Moneywave\Service\ValidateAccountTransfer;
+use godfredakpan\Moneywave\Service\ValidateCardTransfer;
+use godfredakpan\Moneywave\Service\VerifyMerchant;
+use godfredakpan\Moneywave\Service\WalletBalance;
 use PHPUnit\Framework\TestCase;
 
 class MoneywaveTest extends TestCase

@@ -1,2 +1,2 @@
-# Moneywave
+# Godfred Akpan Moneywave
 moneywaveapi

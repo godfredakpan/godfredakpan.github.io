@@ -1,6 +1,6 @@
 <?php
 
-namespace Emmanix2002\Moneywave\Enum;
+namespace godfredakpan\Moneywave\Enum;
 
 class ChargeAuth
 {

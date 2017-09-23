@@ -1,9 +1,9 @@
 <?php
 
-use Emmanix2002\Moneywave\Enum\Banks;
-use Emmanix2002\Moneywave\Enum\PaymentMedium;
-use Emmanix2002\Moneywave\Exception\ValidationException;
-use Emmanix2002\Moneywave\Moneywave;
+use godfredakpan\Moneywave\Enum\Banks;
+use godfredakpan\Moneywave\Enum\PaymentMedium;
+use godfredakpan\Moneywave\Exception\ValidationException;
+use godfredakpan\Moneywave\Moneywave;
 
 require dirname(__DIR__).'/vendor/autoload.php';
 session_start();

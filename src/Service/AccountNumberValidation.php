@@ -1,9 +1,9 @@
 <?php
 
-namespace Emmanix2002\Moneywave\Service;
+namespace godfredakpan\Moneywave\Service;
 
-use Emmanix2002\Moneywave\Enum\Endpoints;
-use Emmanix2002\Moneywave\Moneywave;
+use godfredakpan\Moneywave\Enum\Endpoints;
+use godfredakpan\Moneywave\Moneywave;
 
 /**
  * Validate the details of a bank account by getting the account name.

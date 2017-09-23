@@ -1,10 +1,10 @@
 <?php
 
-namespace Emmanix2002\Moneywave\Service;
+namespace godfredakpan\Moneywave\Service;
 
-use Emmanix2002\Moneywave\Enum\ChargeMethod;
-use Emmanix2002\Moneywave\Enum\Endpoints;
-use Emmanix2002\Moneywave\Moneywave;
+use godfredakpan\Moneywave\Enum\ChargeMethod;
+use godfredakpan\Moneywave\Enum\Endpoints;
+use godfredakpan\Moneywave\Moneywave;
 
 /**
  * Transfer funds from a bank account to another account or Moneywave wallet.

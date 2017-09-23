@@ -1,9 +1,9 @@
 <?php
 
-namespace Emmanix2002\Moneywave\Service;
+namespace godfredakpan\Moneywave\Service;
 
-use Emmanix2002\Moneywave\Enum\Endpoints;
-use Emmanix2002\Moneywave\Moneywave;
+use godfredakpan\Moneywave\Enum\Endpoints;
+use godfredakpan\Moneywave\Moneywave;
 
 /**
  * You can tokenize a card and use the token for initiate a card to account transfer request.

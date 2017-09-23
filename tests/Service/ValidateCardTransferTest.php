@@ -1,11 +1,11 @@
 <?php
 
-namespace Emmanix2002\Moneywave\Tests\Service;
+namespace godfredakpan\Moneywave\Tests\Service;
 
-use Emmanix2002\Moneywave\Enum\Environment;
-use Emmanix2002\Moneywave\Exception\ValidationException;
-use Emmanix2002\Moneywave\Moneywave;
-use Emmanix2002\Moneywave\Service\ValidateCardTransfer;
+use godfredakpan\Moneywave\Enum\Environment;
+use godfredakpan\Moneywave\Exception\ValidationException;
+use godfredakpan\Moneywave\Moneywave;
+use godfredakpan\Moneywave\Service\ValidateCardTransfer;
 use PHPUnit\Framework\TestCase;
 
 class ValidateCardTransferTest extends TestCase

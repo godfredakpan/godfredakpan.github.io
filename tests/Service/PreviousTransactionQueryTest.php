@@ -1,11 +1,11 @@
 <?php
 
-namespace Emmanix2002\Moneywave\Tests\Service;
+namespace godfredakpan\Moneywave\Tests\Service;
 
-use Emmanix2002\Moneywave\Enum\Endpoints;
-use Emmanix2002\Moneywave\Enum\Environment;
-use Emmanix2002\Moneywave\Moneywave;
-use Emmanix2002\Moneywave\Service\PreviousTransactionQuery;
+use godfredakpan\Moneywave\Enum\Endpoints;
+use godfredakpan\Moneywave\Enum\Environment;
+use godfredakpan\Moneywave\Moneywave;
+use godfredakpan\Moneywave\Service\PreviousTransactionQuery;
 use PHPUnit\Framework\TestCase;
 
 class PreviousTransactionQueryTest extends TestCase

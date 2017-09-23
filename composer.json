@@ -1,21 +1,21 @@
 {
-  "name": "emmanix2002/moneywave",
+  "name": "godfredakpan/moneywave",
   "type": "library",
   "description": "An implementation of the Moneywave API by Flutterwave",
   "keywords": [
-    "emmanix2002",
+    "godfredakpan",
     "moneywave",
     "finance",
     "flutterwave",
     "fintech"
   ],
-  "homepage": "https://github.com/emmanix2002/moneywave",
+  "homepage": "https://github.com/godfredakpan/Moneywave",
   "license": "MIT",
   "authors": [
     {
-      "name": "Okeke Emmanuel",
-      "email": "emmanix2002@gmail.com",
-      "homepage": "https://about.me/eokeke",
+      "name": "Godfred Akpan",
+      "email": "godfredakpan@gmail.com",
+      "homepage": "hng.fun/profile/godfredakpan",
       "role": "Developer"
     }
   ],
@@ -33,12 +33,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Emmanix2002\\Moneywave\\": "src"
+      "godfredakpan\\Moneywave\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Emmanix2002\\Moneywave\\Tests\\": "tests"
+      "godfredakpan\\Moneywave\\Tests\\": "tests"
     }
   },
   "scripts": {

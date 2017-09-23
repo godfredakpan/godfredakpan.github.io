@@ -1,14 +1,14 @@
 <?php
 
-namespace Emmanix2002\Moneywave\Service;
+namespace godfredakpan\Moneywave\Service;
 
-use Emmanix2002\Moneywave\Enum\Banks;
-use Emmanix2002\Moneywave\Enum\ChargeAuth;
-use Emmanix2002\Moneywave\Enum\ChargeMethod;
-use Emmanix2002\Moneywave\Enum\Endpoints;
-use Emmanix2002\Moneywave\Enum\TransferRecipient;
-use Emmanix2002\Moneywave\Moneywave;
-use Emmanix2002\Moneywave\MoneywaveResponse;
+use godfredakpan\Moneywave\Enum\Banks;
+use godfredakpan\Moneywave\Enum\ChargeAuth;
+use godfredakpan\Moneywave\Enum\ChargeMethod;
+use godfredakpan\Moneywave\Enum\Endpoints;
+use godfredakpan\Moneywave\Enum\TransferRecipient;
+use godfredakpan\Moneywave\Moneywave;
+use godfredakpan\Moneywave\MoneywaveResponse;
 
 /**
  * Allows your to perform account billing via Internet Banking for other supported banks.

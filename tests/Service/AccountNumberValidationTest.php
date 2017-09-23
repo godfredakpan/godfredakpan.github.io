@@ -1,12 +1,12 @@
 <?php
 
-namespace Emmanix2002\Moneywave\Tests\Service;
+namespace godfredakpan\Moneywave\Tests\Service;
 
-use Emmanix2002\Moneywave\Enum\Banks;
-use Emmanix2002\Moneywave\Enum\Environment;
-use Emmanix2002\Moneywave\Exception\ValidationException;
-use Emmanix2002\Moneywave\Moneywave;
-use Emmanix2002\Moneywave\Service\AccountNumberValidation;
+use godfredakpan\Moneywave\Enum\Banks;
+use godfredakpan\Moneywave\Enum\Environment;
+use godfredakpan\Moneywave\Exception\ValidationException;
+use godfredakpan\Moneywave\Moneywave;
+use godfredakpan\Moneywave\Service\AccountNumberValidation;
 use PHPUnit\Framework\TestCase;
 
 class AccountNumberValidationTest extends TestCase

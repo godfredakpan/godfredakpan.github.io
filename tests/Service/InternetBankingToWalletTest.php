@@ -1,18 +1,18 @@
 <?php
 
-namespace Emmanix2002\Moneywave\Tests\Service;
+namespace godfredakpan\Moneywave\Tests\Service;
 
-use Emmanix2002\Moneywave\Enum\Banks;
-use Emmanix2002\Moneywave\Enum\Environment;
-use Emmanix2002\Moneywave\Enum\PaymentMedium;
-use Emmanix2002\Moneywave\Exception\ValidationException;
-use Emmanix2002\Moneywave\Moneywave;
-use Emmanix2002\Moneywave\Service\InternetBankingToWallet;
+use godfredakpan\Moneywave\Enum\Banks;
+use godfredakpan\Moneywave\Enum\Environment;
+use godfredakpan\Moneywave\Enum\PaymentMedium;
+use godfredakpan\Moneywave\Exception\ValidationException;
+use godfredakpan\Moneywave\Moneywave;
+use godfredakpan\Moneywave\Service\InternetBankingToWallet;
 use PHPUnit\Framework\TestCase;
 
 /**
  * Class InternetBankingToWalletTest
- * @package Emmanix2002\Moneywave\Tests\Service
+ * @package godfredakpan\Moneywave\Tests\Service
  *
  * @link https://moneywave-doc.herokuapp.com/index.html#pay-with-internet-banking
  */

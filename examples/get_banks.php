@@ -1,6 +1,6 @@
 <?php
 
-use Emmanix2002\Moneywave\Moneywave;
+use godfredakpan\Moneywave\Moneywave;
 
 require dirname(__DIR__).'/vendor/autoload.php';
 

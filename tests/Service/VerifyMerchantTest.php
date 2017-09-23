@@ -1,10 +1,10 @@
 <?php
 
-namespace Emmanix2002\Moneywave\Tests\Service;
+namespace godfredakpan\Moneywave\Tests\Service;
 
-use Emmanix2002\Moneywave\Enum\Environment;
-use Emmanix2002\Moneywave\Moneywave;
-use Emmanix2002\Moneywave\Service\VerifyMerchant;
+use godfredakpan\Moneywave\Enum\Environment;
+use godfredakpan\Moneywave\Moneywave;
+use godfredakpan\Moneywave\Service\VerifyMerchant;
 use PHPUnit\Framework\TestCase;
 
 class VerifyMerchantTest extends TestCase

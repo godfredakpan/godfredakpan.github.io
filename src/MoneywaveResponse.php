@@ -1,6 +1,6 @@
 <?php
 
-namespace Emmanix2002\Moneywave;
+namespace godfredakpan\Moneywave;
 
 class MoneywaveResponse
 {

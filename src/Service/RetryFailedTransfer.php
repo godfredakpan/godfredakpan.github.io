@@ -1,9 +1,9 @@
 <?php
 
-namespace Emmanix2002\Moneywave\Service;
+namespace godfredakpan\Moneywave\Service;
 
-use Emmanix2002\Moneywave\Enum\Endpoints;
-use Emmanix2002\Moneywave\Moneywave;
+use godfredakpan\Moneywave\Enum\Endpoints;
+use godfredakpan\Moneywave\Moneywave;
 
 /**
  * Retry a previously failed disbursement where the card was charged, but the amount was not remitted to the account.

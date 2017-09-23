@@ -1,8 +1,8 @@
 <?php
 
-namespace Emmanix2002\Moneywave\Tests\Enum;
+namespace godfredakpan\Moneywave\Tests\Enum;
 
-use Emmanix2002\Moneywave\Enum\Banks;
+use godfredakpan\Moneywave\Enum\Banks;
 use PHPUnit\Framework\TestCase;
 
 class BanksTest extends TestCase

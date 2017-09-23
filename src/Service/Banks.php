@@ -1,8 +1,8 @@
 <?php
 
-namespace Emmanix2002\Moneywave\Service;
+namespace godfredakpan\Moneywave\Service;
 
-use Emmanix2002\Moneywave\Enum\Endpoints;
+use godfredakpan\Moneywave\Enum\Endpoints;
 
 /**
  * Get the list of supported banks and their Moneywave code.
@@ -12,7 +12,7 @@ use Emmanix2002\Moneywave\Enum\Endpoints;
  * send a post request to this end point and save the response in a variable before you call any other endpoint when
  * using Moneywave.
  *
- * You can also get the Bank codes from the Emmanix2002\Moneywave\Enum\Banks class
+ * You can also get the Bank codes from the godfredakpan\Moneywave\Enum\Banks class
  *
  * @link https://moneywave-doc.herokuapp.com/index.html#get-list-of-banks
  */
