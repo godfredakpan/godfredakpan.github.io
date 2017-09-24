@@ -29,7 +29,7 @@
         </whitelist>
     </filter>
     <php>
-        <const name="ACCESS_TOKEN" value="dummy token" />
+        <const name="ACCESS_TOKEN" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTcwOSwibmFtZSI6ImdvZGZyZWRha3BhbSIsImFjY291bnROdW1iZXIiOiIiLCJiYW5rQ29kZSI6Ijk5OSIsImlzQWN0aXZlIjp0cnVlLCJlbnZpcm9ubWVudCI6InRlc3QiLCJjYW5fZ29saXZlIjpmYWxzZSwiY291bnRkb3duIjpudWxsLCJjb21wbGlhbmNlIjowLCJjcmVhdGVkQXQiOiIyMDE3LTA5LTE0VDIyOjM0OjIxLjAwMFoiLCJ1cGRhdGVkQXQiOiIyMDE3LTA5LTE0VDIyOjM3OjE5LjAwMFoiLCJkZWxldGVkQXQiOm51bGwsImlhdCI6MTUwNjIyMDQ0MywiZXhwIjoxNTA2MjI3NjQzfQ.30eFDFcBDwFJNlZ2XZtKNsz3bhgShQdj5fT6U6rBLQ8" />
         <const name="API_KEY" value="ts_5JASRSBM923W5O2BSFD8" />
         <const name="SECRET_KEY" value="ts_53R0UEEBFOLU4KLJ1IUAPNAL4VPT8M" />
     </php>
